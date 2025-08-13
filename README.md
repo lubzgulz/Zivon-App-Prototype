@@ -1,4 +1,6 @@
 # Zivon-App-Prototype
+Figma Link to the Prototype : https://www.figma.com/proto/haCrWlWqGmxnDTTyRzVEBB/Human-Computer-Interaction---Coursework?node-id=173-2916&p=f&t=7YJyUdsFsSFZiWic-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2738&starting-point-node-id=9%3A166&show-proto-sidebar=1 
+
 The specific app, known as ‘Zivon,’ tracks energy usage of the different personae created for this project based on the different use cases each of the family members are assigned to help all of them achieve the common goal of conserving energy.  
 
 The main aim of the project is to create an app prototype, using Figma, to encourage the reduction of energy usage by a family, using design elements and gaming interactions in order to educate users and promote energy efficiency. 
