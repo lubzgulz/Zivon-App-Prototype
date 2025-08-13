@@ -1,5 +1,5 @@
 # Zivon-App-Prototype
-Figma Link to the Prototype : https://www.figma.com/proto/haCrWlWqGmxnDTTyRzVEBB/Human-Computer-Interaction---Coursework?node-id=173-2916&p=f&t=7YJyUdsFsSFZiWic-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2738&starting-point-node-id=9%3A166&show-proto-sidebar=1 
+Figma Link to the Prototype : [https://www.figma.com/proto/haCrWlWqGmxnDTTyRzVEBB/Human-Computer-Interaction---Coursework?node-id=173-2916&p=f&t=7YJyUdsFsSFZiWic-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2738&starting-point-node-id=9%3A166&show-proto-sidebar=1 ](https://www.figma.com/proto/haCrWlWqGmxnDTTyRzVEBB/Human-Computer-Interaction---Coursework?node-id=9-166&p=f&t=3wmyYJhvNrPbErsn-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2738&starting-point-node-id=9%3A166&show-proto-sidebar=1)
 
 The specific app, known as ‘Zivon,’ tracks energy usage of the different personae created for this project based on the different use cases each of the family members are assigned to help all of them achieve the common goal of conserving energy.  
 
